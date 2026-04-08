@@ -1,7 +1,7 @@
 [![Build Status](https://github.com/clintaire/tbible/workflows/Daily%20Bible%20Verse%20Update/badge.svg)](https://github.com/clintaire/tbible/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-![Terminal Bible CLI](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
+![Terminal Bible CLI](https://i.imgur.com/waxVImv.png)
 
 # Terminal Bible CLI
 
