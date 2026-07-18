@@ -85,4 +85,4 @@ This project fetches Bible verses from [bible-api.com](https://bible-api.com), a
 
 ## License
 
-[MIT](./LICENSE) &copy; [Clint Airé](https://github.com/clintaire)
+[MIT](./LICENSE) &copy; [Clint Airé](https://github.com/ccaaire)
